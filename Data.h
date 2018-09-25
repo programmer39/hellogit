@@ -7,7 +7,7 @@ class Data{
 
 	public:
 		Data()
-		Data(inat a, float b);
+		Data(int a, float b);
 		int getX();
 		float getY();
 		void setX(int a);

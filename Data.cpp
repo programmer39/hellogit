@@ -18,11 +18,11 @@
 		return y;
 		}
 	
-	void Data::SetX(int a){
+	void Data::setX(int a){
 		x=a;		
 			}
 	
-	void Data::SetY(float b){
+	void Data::setY(float b){
 		y=b;
 			}
 	
