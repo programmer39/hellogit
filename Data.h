@@ -4,9 +4,10 @@ class Data{
 	private:
 		int x;
 		float y;
+		
 
 	public:
-		Data()
+		Data();
 		Data(int a, float b);
 		int getX();
 		float getY();

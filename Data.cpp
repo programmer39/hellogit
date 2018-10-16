@@ -14,7 +14,7 @@
 		return x;
 		}
 
-	float Data:getY(){
+	float Data::getY(){
 		return y;
 		}
 	
